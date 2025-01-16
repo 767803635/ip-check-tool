@@ -10,8 +10,8 @@ from typing import Dict, List, Any, Optional
 
 class IPCheckerGUI:
     # 常量定义
-    DEFAULT_API_KEY = "5c81e37f6af4f95ca00ef2ec4c8d27a19540895a50e1b73b8ee621b2557c9265"
-    DEFAULT_USERNAME = "767803635"
+    DEFAULT_API_KEY = "f3401a6c638b601bd2a9ae5bab74bea0899fc8e968b1dcea956e0b89e07a63a4"
+    DEFAULT_USERNAME = "lee0033"
     DEFAULT_HOST = 'https://api11.scamalytics.com/'
     CONFIG_FILE = "config.json"
     WINDOW_SIZE = "1200x600"

@@ -66,14 +66,6 @@ python main.py
 - tkinter (Python 自带)
 - requests
 
-## 待实现功能
-
-- [ ] 支持更多 API 服务商
-- [ ] 添加更多数据分析功能
-- [ ] 支持导出更多格式
-- [ ] 添加批量检测速率限制配置
-- [ ] 添加代理支持
-
 ## 贡献指南
 
 欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。
@@ -91,7 +83,3 @@ python main.py
 如有问题或建议，欢迎提交 Issue 或通过以下方式联系：
 
 - Email: lee0033@126.com
-
-## 致谢
-
-感谢 [Scamalytics](https://scamalytics.com/) 提供的 API 服务。
